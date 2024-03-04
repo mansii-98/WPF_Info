@@ -30,6 +30,7 @@ namespace WPF_Info
             Data();
             Autoincrement();
             console.writeline("Hii this is manasi");
+            console.writeline("Hii this is vaibhav sir");
         }
         public void Autoincrement()
         {
