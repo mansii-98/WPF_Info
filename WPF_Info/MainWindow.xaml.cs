@@ -29,7 +29,7 @@ namespace WPF_Info
             InitializeComponent();
             Data();
             Autoincrement();
-           
+            console.writeline("Hii this is manasi");
         }
         public void Autoincrement()
         {
